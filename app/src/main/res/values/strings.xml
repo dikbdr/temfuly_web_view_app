@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Web_view</string>
+    <string name="app_name">Temfuly</string>
+    <string name="website_url">https://www.temfuly.com/</string>
 </resources>
